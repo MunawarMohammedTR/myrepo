@@ -1,0 +1,7 @@
+microservices:
+  - app: user-auth
+    port: 9000
+    version : 1.0.0
+  - app: user-auth
+    port: 9002
+    version : 1.0.0
